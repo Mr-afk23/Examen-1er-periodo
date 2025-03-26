@@ -1,0 +1,14 @@
+.header2{
+    justify-content: space-evenly;
+    padding: 10px;
+    display: flex;
+    color: white;
+    background-color: black;
+    
+}
+
+.header3 {
+    display: flex;
+    padding: 10px;
+    color: rgb(8, 2, 2);
+}
